@@ -162,7 +162,7 @@ h2 {
   font-size: 1.4rem;
   margin-bottom: 1rem;
   color: #ff6fae;
-  
+
 }
 .grid {
   display: grid;
@@ -226,10 +226,10 @@ footer {
   border-radius: 10px;
 }
 
-.html { width: 90%; background: #ff6f91; }
-.css { width: 85%; background: #ff9aa2; }
-.js { width: 70%; background: #ffc75f; }
-.figma { width: 95%; background: #f72585; }
+.html { width: 80%; background: #ff6f91; }
+.css { width: 75%; background: #ff9aa2; }
+.js { width: 90%; background: #ffc75f; }
+.figma { width: 60%; background: #f72585; }
 
 .portfolio {
   padding: 60px 20px;
